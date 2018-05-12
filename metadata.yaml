@@ -1,0 +1,40 @@
+_repo: Japan-and-the-California-Problem_36822
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36822-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Sato, Kennosuke
+    aliases:
+    - Sato, Kenoske
+    - Sato, Kennoske
+    birthdate: 1891
+    gutenberg_agent_id: '38493'
+    url: http://www.gutenberg.org/2009/agents/38493
+  - agent_name: Iyenaga, T. (Toyokichi)
+    aliases:
+    - 家永豊吉
+    - Iyenaga, Toyokichi
+    - Ienaga, Toyokichi
+    - 家永豐吉
+    birthdate: 1862
+    deathdate: 1936
+    gutenberg_agent_id: '4333'
+    url: http://www.gutenberg.org/2009/agents/4333
+description: ''
+gutenberg_issued: '2011-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36822'
+  lccn: '21007667'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japanese -- California'
+- !lcc 'JV'
+- !lcsh 'Japan -- Emigration and immigration'
+title: Japan and the California Problem
+url: http://www.gutenberg.org/ebooks/36822
